@@ -1,0 +1,1 @@
+other.life -= global.dmg/2;

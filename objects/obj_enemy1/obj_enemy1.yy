@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "sprEnemy0",
+    "path": "sprites/sprEnemy0/sprEnemy0.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "objEnemy0",
+    "path": "objects/objEnemy0/objEnemy0.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"initial_life","path":"objects/objEnemy0/objEnemy0.yy",},"objectId":{"name":"objEnemy0","path":"objects/objEnemy0/objEnemy0.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"enemy_lvl","path":"objects/objEnemy0/objEnemy0.yy",},"objectId":{"name":"objEnemy0","path":"objects/objEnemy0/objEnemy0.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"meteor_vspd","path":"objects/objEnemy0/objEnemy0.yy",},"objectId":{"name":"objEnemy0","path":"objects/objEnemy0/objEnemy0.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "enemy",
+    "path": "folders/Objects/enemy.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_enemy1",
+  "tags": [],
+  "resourceType": "GMObject",
+}
